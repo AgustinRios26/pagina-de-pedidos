@@ -1,7 +1,7 @@
 # Pagina de Pedidos
 
 <h3>Backend deploy: <a href="https://pagina-de-pedidos.herokuapp.com">Backend</a> </h3>
-<h3>Frontend deploy: <a href="https://pagina-de-pedidos.netlify.app/login">Frontend</a> </h3> <br> 
+<h3>Frontend deploy: <a href="https://pagina-de-pedidos.netlify.app">Frontend</a> </h3> <br> 
 
 *Backend deploy on Heroku* <br>
 *Frontend deploy on Netlify*
