@@ -1,10 +1,10 @@
 # Pagina de Pedidos
 
-<h3>Backend deploy: <a href="https://pagina-de-pedidos.herokuapp.com">Backend</a> </h3>
-<h3>Frontend deploy: <a href="https://pagina-de-pedidos.netlify.app">Frontend</a> </h3> <br> 
+<h3>Backend deploy: <a href="https://pagina-de-pedidos.onrender.com/">Backend</a> </h3>
+<h3>Frontend deploy: <a href="https://pagina-de-pedidos.vercel.app">Frontend</a> </h3> <br> 
 
-*Backend deploy on Heroku* <br>
-*Frontend deploy on Netlify*
+*Backend deploy on Render* <br>
+*Frontend deploy on Vercel*
 
 Usando NodeJS, Express y MongoDB para el Backend y React para el Frontend (junto con bootstrap para los estilos) <br> <br>
 Consiste en una pagina que inicia sesion un unico usuario ( email: correo@correo.com , password: 12345 ). Se debera iniciar sesion
